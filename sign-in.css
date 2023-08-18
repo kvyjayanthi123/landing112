@@ -1,0 +1,50 @@
+.input::placeholder{
+   margin-left: 20px; 
+}
+.input-data::placeholder{
+    color: white;
+}
+.or{
+    color: var(--dark-gray, #6A707C);
+font-family: Urbanist;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: 250px;
+}
+.social-item{
+    display: flex;
+    gap: 15px;
+}
+.social1{
+    width: 105px;
+height: 56px;
+flex-shrink: 0;
+}
+.facebook{
+    width: 26px;
+height: 26px;
+flex-shrink: 0;
+color: #4092FF;
+}
+.already{
+    color: #1E232C;
+text-align: center;
+font-family: Urbanist;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 140%; /* 21px */
+letter-spacing: 0.15px;
+}
+.footer{
+    background-color: black;
+    padding: 50px;
+}
+.footer-icon{
+    width: 158px;
+height: 24px;
+flex-shrink: 0;
+margin-top: 10px;
+}
